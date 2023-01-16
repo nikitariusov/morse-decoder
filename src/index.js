@@ -52,7 +52,6 @@ function decode(expr) {
       })
     ).join('')
     
-    console.log(wordsInMorseCode);
     return decodewords
 }
 
